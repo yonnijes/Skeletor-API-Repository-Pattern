@@ -1,6 +1,6 @@
 # Skeletor-API-Repository-Pattern
 
-Esqueleto API implementado el patron repositorio
+Esqueleto API implementando el patron repositorio
 
 "dependencies": {
     "awilix"
